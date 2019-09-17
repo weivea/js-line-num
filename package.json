@@ -1,0 +1,17 @@
+{
+  "name": "@weivea/js-line-num",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "jsLine": "bin/replacer.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weivea",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.4"
+  }
+}
